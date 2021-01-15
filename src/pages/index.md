@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section
+    title: Heroes III Championship
     image: images/500px-Screenshot_3dd.png
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
