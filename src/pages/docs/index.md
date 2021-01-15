@@ -1,5 +1,5 @@
 ---
-title: H
+title: Heroes III Championship
 template: docs
 ---
 
