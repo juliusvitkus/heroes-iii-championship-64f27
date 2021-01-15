@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: ''
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 has_more_link: true
