@@ -2,15 +2,11 @@
 title: Heroes III Championship
 template: docs
 ---
+We will play "Heroes of might and magic III" version with "Horn of the abyss" expansion and "HD+" modification.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+Start on February 1st. Each week you will play a best of 1 match serie.
 
-***
+The player who loses 2 series leaves the championship. This is how we will play until there are 2 players left who will determine who is the winner of the championship in the final.
 
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
+Championship template: Jebus Cross and rules: h3hota.com/en/rules. The rules and template can be changed by mutual agreement. Communication will take place via Facebook Messenger.
 
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
-
-[Morbi ac vulputate enim](https://stackbit.com)
-
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
