@@ -5,9 +5,8 @@ sections:
     type: section_hero
     title: Heroes III Championship
     image: images/500px-Screenshot_3dd.png
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Enough playing alone, it's time to find out who is the best.
     actions:
       - label: Get Started
         url: /docs
