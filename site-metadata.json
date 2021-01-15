@@ -79,7 +79,7 @@
             {
                 "label": "lorem-ipsum",
                 "url": "https://www.youtube.com/channel/UCM_zEKTIYUp91j8JlPz3fJQ",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "youtube",
                 "new_window": false,
                 "no_follow": false,
