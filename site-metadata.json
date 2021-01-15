@@ -7,7 +7,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "lorem-ipsum",
+                "label": "News",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "dev",
